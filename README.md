@@ -6,8 +6,8 @@ Side menu Flutter application.
 
 This project is a starting point for a Flutter application.
 
-![GitHub Logo](/imgages/demo_1.png)
-![GitHub Logo](/imgages/demo_2.png)
+![GitHub Logo](/images/demo_1.png)
+![GitHub Logo](/images/demo_2.png)
 
 A few resources to get you started if this is your first Flutter project:
 
