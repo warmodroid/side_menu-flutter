@@ -7,7 +7,7 @@ Side menu Flutter application.
 This project is a starting point for a Flutter application.
 
 <img src="/images/demo_1.png" width="700" height="400">
-![GitHub Logo](/images/demo_1.png | ){height="700px" width="400px"}
+![GitHub Logo](/images/demo_1.png | ){height="700px" width="100px"}
 ![GitHub Logo](/images/demo_2.png){height="700px" width="400px"}
 
 A few resources to get you started if this is your first Flutter project:
